@@ -7,7 +7,9 @@ Bias: Sampling
 Reasons: People who come to the clinic are either self- or clinically diagnosed with anxiety, and are actively seeking treatment. 
 
 • You launch a new ad billboard based campaign and see an increase in website visits in the first week.
-Bias:
+Bias: Contextual
+Reasons: 'The first week' might have coincided with a major holiday/special season, which promoted people's interest, not neccessarily because they saw the new billboard campaign.
 
 • You launch a loyalty program but see no change in visits in the first week.
-Bias: 
+Bias: Observer
+Reasons: A wrong method for measuring people's interests. Maybe instead of numbers of visits, measure the numbers of new visitors signing up instead.
